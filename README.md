@@ -21,7 +21,7 @@
 
 # 二、展示
 
-[https://siriling.github.io/my-icons/dist](https://s71557.github.io/my-icons/dist/)
+[https://s71557.github.io/my-icons/dist](https://s71557.github.io/my-icons/dist/)
 
 ![show](public/screenshot.png)
 
