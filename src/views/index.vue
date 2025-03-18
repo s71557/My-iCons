@@ -210,7 +210,7 @@ export default defineComponent({
       //获取图片url
       let currenturl = window.location.href;
       let iconurl = data.publicPath + "icon/" + url;
-      let iconurlCdn = "https://cdn.jsdelivr.net/gh/Siriling/my-icons@main/dist/" + "icon/" + url;
+      let iconurlCdn = "https://cdn.jsdelivr.net/gh/s71557/my-icons@main/dist/" + "icon/" + url;
       let fullurl = currenturl.substr(0, currenturl.length - 2) + iconurl;
       await toClipboard(value1.value ? iconurlCdn : fullurl);
       ElMessage({
